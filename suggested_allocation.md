@@ -14,28 +14,28 @@
 | #   | Slide                                                                 | Speaker      | Time | Purpose                                           |
 | --- | --------------------------------------------------------------------- | ------------ | ---- | ------------------------------------------------- |
 | 1   | Title + Hook ("6 hours, $60bn wiped, billions offline")               | **Yuexue**   | 0:45 | Open with stakes; frame as systemic risk briefing |
-| 2   | System Overview & Stakeholder Map (FB backbone as failure aggregator) | **M1**       | 1:00 | Establish why this system matters                 |
+| 2   | System Overview & Stakeholder Map (FB backbone as failure aggregator) | \*\* \*\*    | 1:00 | Establish why this system matters                 |
 | 3   | Incident Timeline (4 Oct 2021, key moments to recovery)               | **Abhay**    | 1:15 | Set the factual scene                             |
 | 4   | Root Cause Analysis — BGP/DNS withdrawal (visual diagram)             | **Allister** | 1:30 | The technical "what" — kept executive-friendly    |
-| 5   | Cascading Failures — internal tools, badges, comms (BCP breakdown)    | **Benny**    | 0:45 | Show the systemic aggregation effect              |
-| 6   | Process Breakdown & Accountability Boundaries                         | **M4**       | 1:30 | QA, change mgmt, deployment gates that failed     |
+| 5   | Cascading Failures — internal tools, badges, comms (BCP breakdown)    | \*\* \*\*    | 0:45 | Show the systemic aggregation effect              |
+| 6   | Process Breakdown & Accountability Boundaries                         | **Benny**    | 1:30 | QA, change mgmt, deployment gates that failed     |
 | 7   | Strategic Recommendations Framework (5 pillars)                       | **Tianze**   | 1:30 | The "so what" for management                      |
-| 8   | Trade-off Analysis: Rigour vs Time-to-Market                          | **M5**       | 0:45 | HD-level nuance — the executive tension           |
+| 8   | Trade-off Analysis: Rigour vs Time-to-Market                          |              | 0:45 | HD-level nuance — the executive tension           |
 | 9   | Implementation Roadmap (0–3 / 3–12 / 12+ months)                      | **Yuhan**    | 1:00 | Make recommendations actionable                   |
-| 10  | Closing + Q&A handover                                                | **M6**       | 0:30 | Strong close, invite questions                    |
+| 10  | Closing + Q&A handover                                                | \*\* \*\*    | 0:30 | Strong close, invite questions                    |
 
 **Total speaking ≈ 10:30** — buffer aggressively to land on 10:00.
 
 ### Per-member speaking time
 
-| Member | Slides | Total Speaking |
-| ------ | ------ | -------------- |
-| M1     | 1, 2   | ~1:45          |
-| M2     | 3      | ~1:15          |
-| M3     | 4, 5   | ~2:15          |
-| M4     | 6      | ~1:30          |
-| M5     | 7, 8   | ~2:15          |
-| M6     | 9, 10  | ~1:30          |
+| Member   | Slides | Total Speaking |
+| -------- | ------ | -------------- |
+| Yuexue   | 1, 2   | ~1:45          |
+| Abhay    | 3      | ~1:15          |
+| Allister | 4, 5   | ~2:15          |
+| Benny    | 6      | ~1:30          |
+| Tianze   | 7, 8   | ~2:15          |
+| Yuhan    | 9, 10  | ~1:30          |
 
 ---
 
