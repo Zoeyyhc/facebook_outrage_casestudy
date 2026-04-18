@@ -11,18 +11,18 @@
 
 ## Slide Structure & Speaking Roles
 
-| #   | Slide                                                                 | Speaker | Time | Purpose                                           |
-| --- | --------------------------------------------------------------------- | ------- | ---- | ------------------------------------------------- |
-| 1   | Title + Hook ("6 hours, $60bn wiped, billions offline")               | **M1**  | 0:45 | Open with stakes; frame as systemic risk briefing |
-| 2   | System Overview & Stakeholder Map (FB backbone as failure aggregator) | **M1**  | 1:00 | Establish why this system matters                 |
-| 3   | Incident Timeline (4 Oct 2021, key moments to recovery)               | **M2**  | 1:15 | Set the factual scene                             |
-| 4   | Root Cause Analysis — BGP/DNS withdrawal (visual diagram)             | **M3**  | 1:30 | The technical "what" — kept executive-friendly    |
-| 5   | Cascading Failures — internal tools, badges, comms (BCP breakdown)    | **M3**  | 0:45 | Show the systemic aggregation effect              |
-| 6   | Process Breakdown & Accountability Boundaries                         | **M4**  | 1:30 | QA, change mgmt, deployment gates that failed     |
-| 7   | Strategic Recommendations Framework (5 pillars)                       | **M5**  | 1:30 | The "so what" for management                      |
-| 8   | Trade-off Analysis: Rigour vs Time-to-Market                          | **M5**  | 0:45 | HD-level nuance — the executive tension           |
-| 9   | Implementation Roadmap (0–3 / 3–12 / 12+ months)                      | **M6**  | 1:00 | Make recommendations actionable                   |
-| 10  | Closing + Q&A handover                                                | **M6**  | 0:30 | Strong close, invite questions                    |
+| #   | Slide                                                                 | Speaker      | Time | Purpose                                           |
+| --- | --------------------------------------------------------------------- | ------------ | ---- | ------------------------------------------------- |
+| 1   | Title + Hook ("6 hours, $60bn wiped, billions offline")               | **Yuexue**   | 0:45 | Open with stakes; frame as systemic risk briefing |
+| 2   | System Overview & Stakeholder Map (FB backbone as failure aggregator) | **M1**       | 1:00 | Establish why this system matters                 |
+| 3   | Incident Timeline (4 Oct 2021, key moments to recovery)               | **Abhay**    | 1:15 | Set the factual scene                             |
+| 4   | Root Cause Analysis — BGP/DNS withdrawal (visual diagram)             | **Allister** | 1:30 | The technical "what" — kept executive-friendly    |
+| 5   | Cascading Failures — internal tools, badges, comms (BCP breakdown)    | **Benny**    | 0:45 | Show the systemic aggregation effect              |
+| 6   | Process Breakdown & Accountability Boundaries                         | **M4**       | 1:30 | QA, change mgmt, deployment gates that failed     |
+| 7   | Strategic Recommendations Framework (5 pillars)                       | **Tianze**   | 1:30 | The "so what" for management                      |
+| 8   | Trade-off Analysis: Rigour vs Time-to-Market                          | **M5**       | 0:45 | HD-level nuance — the executive tension           |
+| 9   | Implementation Roadmap (0–3 / 3–12 / 12+ months)                      | **Yuhan**    | 1:00 | Make recommendations actionable                   |
+| 10  | Closing + Q&A handover                                                | **M6**       | 0:30 | Strong close, invite questions                    |
 
 **Total speaking ≈ 10:30** — buffer aggressively to land on 10:00.
 
